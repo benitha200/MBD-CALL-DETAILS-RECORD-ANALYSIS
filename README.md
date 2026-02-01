@@ -2,7 +2,7 @@
 
 ## README
 
-**Student:** [Your Name]  
+**Student:** Benitha Louange Iyuyisenga
 **Course:** Mobile Big Data  
 **Assignment:** Interactive Session 1 - CDR Analysis  
 **Date:** January 2026
