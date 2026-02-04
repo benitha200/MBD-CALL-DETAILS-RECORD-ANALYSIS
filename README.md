@@ -1,10 +1,10 @@
 # Mobile Big Data - Assignment 1: CDR Analysis
 
 **Student:** Benitha Louange Iyuyisenga  
-**Course:** Mobile Big Data  
-**Assignment:** Interactive Session 1 – CDR Analysis  
-**Date:** January 2026
+**andrewID:** biyuyise
 
+--- 
+## GitHub Repo [https://github.com/benitha200/MBD-CALL-DETAILS-RECORD-ANALYSIS.git](https://github.com/benitha200/MBD-CALL-DETAILS-RECORD-ANALYSIS.git) 
 ---
 
 ## Assignment Overview
@@ -15,9 +15,6 @@ This project analyzes Call Detail Records (CDR) from Milan, Italy, collected ove
 
 - Jupyter Notebook (`MBD_Assignment1_biyuyise.ipynb`) with key findings + visualizations  
 - This README (overview, key decisions, findings)
-
-**Duration:** Jan 20 – Feb 04, 2026  
-**Total Points:** 100
 
 ---
 
@@ -83,7 +80,7 @@ total_activity = total_sms + total_calls + total_internet
 - **Total records analyzed:** 6,564,031  
 - **Unique grid squares (CellID):** 10,000  
 - **Unique country codes:** 302  
-- **Records per day:** Nov 2 → 1,847,331; Nov 4 → 2,299,544; Nov 6 → 2,417,156  
+- **Records per day:** Nov 2 -> 1,847,331; Nov 4 -> 2,299,544; Nov 6 -> 2,417,156  
 
 ### Missing Values
 - **Records with missing values:** 21,137,195  
@@ -145,6 +142,7 @@ jupyter notebook MBD_Assignment1_biyuyise.ipynb
 ```
 
 ---
+
 
 ## References
  
