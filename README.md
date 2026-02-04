@@ -2,7 +2,6 @@
 
 **Student:** Benitha Louange Iyuyisenga  
 **andrewID:** biyuyise
-
 --- 
 ## GitHub Repo [https://github.com/benitha200/MBD-CALL-DETAILS-RECORD-ANALYSIS.git](https://github.com/benitha200/MBD-CALL-DETAILS-RECORD-ANALYSIS.git) 
 ---
@@ -15,7 +14,6 @@ This project analyzes Call Detail Records (CDR) from Milan, Italy, collected ove
 
 - Jupyter Notebook (`MBD_Assignment1_biyuyise.ipynb`) with key findings + visualizations  
 - This README (overview, key decisions, findings)
-
 ---
 
 ## Dataset Information
