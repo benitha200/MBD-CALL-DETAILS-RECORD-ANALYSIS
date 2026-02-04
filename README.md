@@ -74,8 +74,6 @@ total_activity = total_sms + total_calls + total_internet
 
 ---
 
-## Explicit Answers to Assignment Questions
-
 ### Dataset Structure
 - **Total records analyzed:** 6,564,031  
 - **Unique grid squares (CellID):** 10,000  
